@@ -1,4 +1,4 @@
 ## Fusion course
-1. project management: new project, version control for save, fusion web(cloud) management
+1. Project Management: New Project Creation, Version Control for Saving, and Fusion Web (Cloud) Management
 
 reference: Fusion 360 Beginners Course (Udemy)
